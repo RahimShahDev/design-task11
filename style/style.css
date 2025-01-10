@@ -91,12 +91,10 @@ html{
 
     .h-primary{
         font-size: 3.5rem;
-        width: 80%;
 
     }
     .h-primary{
         font-size: 2.5rem;
-        width: 80%;
 
     }
     .btn{
@@ -114,8 +112,10 @@ html{
         text-align: center;
     }
     #services{
-        margin: 15px auto;
         display: flex;
+        margin: 15px auto;
+        padding-top: 25px;
+        
     }
     #services .box{
         border: 2px solid darkblue;
