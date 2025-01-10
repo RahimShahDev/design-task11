@@ -52,13 +52,10 @@ html{
         margin: 2px;
         text-decoration: none;
         border-radius: 15px;
-
-        
     }
     .navbar ul li a:hover{
         color: black;
         background-color: lightcyan;
-    
     }
     #home{
         display: flex;
@@ -67,6 +64,7 @@ html{
         height: 400px;
         justify-content: center;
         align-items: center;
+
     }
     #home::before{
         content: "";
@@ -82,21 +80,25 @@ html{
     #home .h-primary{
         color: rgb(113, 6, 6);
         text-align: center;
+        width: 100%;
     }
     #home p{
         color: rgb(7, 9, 131);
         text-align: center;
         font-size: 1.25rem;
+        width: 100%;
     }
 
     .h-primary{
         font-size: 3.5rem;
         padding: 12px;
+        width: 100%;
 
     }
     .h-primary{
         font-size: 2.5rem;
         padding: 12px;
+        width: 100%;
 
     }
     .btn{
