@@ -116,7 +116,7 @@ html{
         text-align: center;
     }
     #services{
-        margin: 34px;
+        margin: 15px auto;
         display: flex;
     }
     #services .box{
